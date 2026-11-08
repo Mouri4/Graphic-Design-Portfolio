@@ -3579,7 +3579,7 @@ html[data-theme="dark"] .an-stat { background-color: var(--tile); }
 @media (min-width: 901px) {
   #front {
     width: min(60%, 58vh);
-    height: auto;
+    height: 60%;
     aspect-ratio: 1 / 1;
     flex: none;
   }
