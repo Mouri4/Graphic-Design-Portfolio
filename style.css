@@ -3583,8 +3583,4 @@ html[data-theme="dark"] .an-stat { background-color: var(--tile); }
     aspect-ratio: 1 / 1;
     flex: none;
   }
-
-  .main{
-    height: auto;
-  }
 }
