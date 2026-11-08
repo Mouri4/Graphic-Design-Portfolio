@@ -3585,6 +3585,6 @@ html[data-theme="dark"] .an-stat { background-color: var(--tile); }
   }
 
   .main{
-    height: 87vh;
+    height: auto;
   }
 }
