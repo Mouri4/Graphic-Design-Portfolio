@@ -145,7 +145,14 @@ window.PROJECTS = [
    ============================================================ */
 window.SOCIALS = {
   github: 'https://github.com/Mouri4',      // e.g. 'https://github.com/your-username'
-  linkedin: 'https://www.linkedin.com/',    // e.g. 'https://www.linkedin.com/in/your-name'
+  linkedin: 'https://www.linkedin.com',    // e.g. 'https://www.linkedin.com/in/your-name'
   facebook: 'https://www.facebook.com/jhoncen.taulo/',
   instagram: 'https://www.instagram.com/jhncen.t/'
 };
+
+/* ============================================================
+   ANALYTICS (optional, PDF section 23)  -  GoatCounter, free + cookie-free.
+   1. Sign up at https://www.goatcounter.com and choose a site code (e.g. 'jhoncen').
+   2. Paste only the code below. Leave '' to keep analytics OFF.
+   ============================================================ */
+window.ANALYTICS = { goatcounter: 'jhoncen' };

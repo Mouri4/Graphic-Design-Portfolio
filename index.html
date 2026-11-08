@@ -111,7 +111,14 @@
             </ul>
 
             <!-- search designs -->
-            
+            <button class="search-toggle" id="search-toggle" type="button" aria-label="Search designs"
+              aria-expanded="false" aria-controls="search-panel" title="Search designs  ( / )">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                stroke-linejoin="round" aria-hidden="true">
+                <circle cx="11" cy="11" r="7" />
+                <path d="M20 20l-3.5-3.5" />
+              </svg>
+            </button>
 
             <!-- light / dark mode -->
             <button class="theme-toggle" id="theme-toggle" type="button" aria-label="Switch to dark mode"
@@ -274,40 +281,98 @@
             <div class="programming-content">
               <div class="programming-conts">
                 <img loading="lazy" decoding="async" src="icons/html.png" alt="html" class="programming-img">
+                <div class="skill-bar" role="img" aria-label="html skill level 80%">
+                  <div class="skill-fill" style="--level: 80%; --color: #e34f26;"></div>
+                </div>
               </div>
               <div class="programming-conts">
                 <img loading="lazy" decoding="async" src="icons/css-3.png" alt="css" class="programming-img">
+                <div class="skill-bar" role="img" aria-label="css skill level 75%">
+                  <div class="skill-fill" style="--level: 75%; --color: #1572b6;"></div>
+                </div>
               </div>
               <div class="programming-conts">
                 <img loading="lazy" decoding="async" src="icons/js.png" alt="javascript" class="programming-img">
+                <div class="skill-bar" role="img" aria-label="javascript skill level 60%">
+                  <div class="skill-fill" style="--level: 60%; --color: #f7df1e;"></div>
+                </div>
               </div>
               <div class="programming-conts">
                 <img loading="lazy" decoding="async" src="icons/php.png" alt="php" class="programming-img">
+                <div class="skill-bar" role="img" aria-label="php skill level 60%">
+                  <div class="skill-fill" style="--level: 60%; --color: #777bb4;"></div>
+                </div>
               </div>
               <div class="programming-conts">
                 <img loading="lazy" decoding="async" src="icons/MySQL-removebg.png" alt="mysql" class="programming-img">
+                <div class="skill-bar" role="img" aria-label="mysql skill level 60%">
+                  <div class="skill-fill" style="--level: 60%; --color: #00a0c6;"></div>
+                </div>
               </div>
               <div class="programming-conts">
                 <img loading="lazy" decoding="async" src="icons/reactv2-removebg.png" alt="react" class="programming-img">
+                <div class="skill-bar" role="img" aria-label="react skill level 30%">
+                  <div class="skill-fill" style="--level: 30%; --color: #61dafb;"></div>
+                </div>
               </div>
               <div class="programming-conts">
                 <img loading="lazy" decoding="async" src="icons/C_-removebg.png" alt="C#" class="programming-img">
+                <div class="skill-bar" role="img" aria-label="C# skill level 40%">
+                  <div class="skill-fill" style="--level: 40%; --color: #9b4f96;"></div>
+                </div>
               </div>
               <div class="programming-conts">
                 <img loading="lazy" decoding="async" src="icons/C_Programming_Language_Sticker-removebg-.png" alt="C" class="programming-img">
+                <div class="skill-bar" role="img" aria-label="C skill level 40%">
+                  <div class="skill-fill" style="--level: 40%; --color: #5c6bc0;"></div>
+                </div>
               </div>
               <div class="programming-conts">
                 <img loading="lazy" decoding="async" src="icons/javai-removebg.png" alt="java" class="programming-img">
+                <div class="skill-bar" role="img" aria-label="java skill level 40%">
+                  <div class="skill-fill" style="--level: 40%; --color: #e76f00;"></div>
+                </div>
               </div>
               <div class="programming-conts">
                 <img loading="lazy" decoding="async" src="icons/git.png" alt="git" class="programming-img">
+                <div class="skill-bar" role="img" aria-label="git skill level 50%">
+                  <div class="skill-fill" style="--level: 50%; --color: #f05032;"></div>
+                </div>
               </div>
               <div class="programming-conts">
                 <img loading="lazy" decoding="async" src="icons/Githubv2.jpg" alt="github" class="programming-img">
+                <div class="skill-bar" role="img" aria-label="github skill level 60%">
+                  <div class="skill-fill" style="--level: 60%; --color: #ffffff;"></div>
+                </div>
               </div>
               <div class="programming-conts">
                 <img loading="lazy" decoding="async" src="icons/Visual-Studio-Code-removebg.png" alt="visual-studio-code" class="programming-img">
+                <div class="skill-bar" role="img" aria-label="visual-studio-code skill level 80%">
+                  <div class="skill-fill" style="--level: 80%; --color: #007acc;"></div>
+                </div>
               </div>
+            </div>
+          </div>
+
+          <div class="programming-page analytics-page" id="skills-analytics">
+            <div class="programming-title">
+              <h3>Analytics</h3>
+            </div>
+            <div class="an-content">
+              <div class="an-stats">
+                <div class="an-stat"><b>38%</b><span>Design software average</span></div>
+                <div class="an-stat"><b>56%</b><span>Programming average</span></div>
+                <div class="an-stat"><b>17</b><span>Tools &amp; languages</span></div>
+                <div class="an-stat"><b>80%</b><span>Strongest: HTML &amp; VS Code</span></div>
+              </div>
+              <h4 class="an-h">Top skills</h4>
+              <ul class="an-bars">
+                <li><span>HTML</span><div class="skill-bar"><div class="skill-fill" style="--level: 80%; --color: #e34f26;"></div></div><em>80%</em></li>
+                <li><span>VS Code</span><div class="skill-bar"><div class="skill-fill" style="--level: 80%; --color: #007acc;"></div></div><em>80%</em></li>
+                <li><span>CSS</span><div class="skill-bar"><div class="skill-fill" style="--level: 75%; --color: #1572b6;"></div></div><em>75%</em></li>
+                <li><span>Figma</span><div class="skill-bar"><div class="skill-fill" style="--level: 70%; --color: #fa4b1a;"></div></div><em>70%</em></li>
+                <li><span>JavaScript</span><div class="skill-bar"><div class="skill-fill" style="--level: 60%; --color: #f7df1e;"></div></div><em>60%</em></li>
+              </ul>
             </div>
           </div>
 
@@ -1166,6 +1231,7 @@
     })();
   </script>
   <script src="projects-data.js"></script>
+  <script src="js/analytics.js"></script>
   <script src="js/router.js"></script>
   <script src="js/projects.js"></script>
   <script src="js/contact.js"></script>
@@ -1173,3 +1239,4 @@
 </body>
 
 </html>
+
