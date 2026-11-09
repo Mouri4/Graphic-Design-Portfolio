@@ -120,7 +120,7 @@
     p.features.forEach(function (f) { ul.appendChild(el('li', null, f)); });
     s.appendChild(ul);
   });
-  if (p.technologies && p.technologies.length) section('Tools & Techniques', function (s) {
+  if (p.technologies && p.technologies.length) section('Technologies Used', function (s) {
     var ul = el('ul', 'pj-tags');
     p.technologies.forEach(function (t) { ul.appendChild(el('li', null, t)); });
     s.appendChild(ul);
