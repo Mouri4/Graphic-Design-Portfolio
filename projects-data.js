@@ -36,7 +36,7 @@ window.PROJECTS = [
       'Color palette: #93B8DD, #2C3D4E, #C9A500, #DEDEDE',
       'Primary typeface Playfair Display, secondary Poltawski Nowy'
     ],
-    technologies: ['Logo Design', 'Typography', 'Color Palette', 'Brand Guidelines'],
+    technologies: ['Laptop', 'Photoshop', 'Color Palette', 'Brand Guidelines'],
     screenshots: [
       { src: 'ceel-img/logo-icon.png', alt: 'Patience lotus emblem' },
       { src: 'ceel-img/Badge-2.png', alt: 'Patience logo on navy badge' },
@@ -68,7 +68,7 @@ window.PROJECTS = [
       'Slim web / newsletter banner',
       'Consistent brand look across all layouts'
     ],
-    technologies: ['Digital Marketing', 'Social Media Graphics', 'Typography', 'Layout Design'],
+    technologies: ['Laptop','Photoshop', 'Social Media Graphics', 'Typography', 'Layout Design'],
     screenshots: [
       { src: 'ceel-img/Pumpkin-Spice-Latte-Splash.png', alt: 'Pumpkin spice latte hero' },
       { src: 'ceel-img/landing-page-banner.png', alt: 'Brew Haven landing page banner' },
@@ -100,7 +100,7 @@ window.PROJECTS = [
       'Minimalist layout',
       'Tagline reinforcing the brand message'
     ],
-    technologies: ['Poster Design', 'Typography', 'Layout Design'],
+    technologies: ['Laptop', 'Photoshop', 'Poster Design', 'Typography', 'Layout Design'],
     screenshots: [
       { src: 'ceel-img/TypographyBrandPoster.png', alt: 'Patience grand opening poster' }
     ],
@@ -131,7 +131,7 @@ window.PROJECTS = [
       'Sales reports and basic analytics',
       'Customer order tracking and product reviews'
     ],
-    technologies: ['Full-Stack Development', 'Point of Sale', 'E-Commerce', 'Role-Based Access'],
+    technologies: ['Laptop', 'Visual Studio', 'Point of Sale', 'E-Commerce', 'Role-Based Access'],
     screenshots: [],
     caseStudy: 'experience',
     url: '', github: '', demo: '', docs: ''
