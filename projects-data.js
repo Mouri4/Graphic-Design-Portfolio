@@ -132,7 +132,16 @@ window.PROJECTS = [
       'Customer order tracking and product reviews'
     ],
     technologies: ['Laptop', 'Visual Studio', 'Point of Sale', 'E-Commerce', 'Role-Based Access'],
-    screenshots: [],
+    screenshots: [
+       { src: 'ceel-img/admin-staff-login_page.png'},
+       { src: 'ceel-img/customer-login-page.png'},
+       { src: 'ceel-img/customer-signup-page.png'},
+       { src: 'ceel-img/admin-inventory.png'},
+       { src: 'ceel-img/admin-sales-p1.png'},
+       { src: 'ceel-img/customer-browsing-page-p2.png'},
+       { src: 'ceel-img/customer-view-cart.png'},
+       { src: 'ceel-img/staff-POS.png'}
+    ],
     caseStudy: 'experience',
     url: '', github: '', demo: 'https://drive.google.com/file/d/1QyIvqbWAaVCkcL3uKqAYTLyV8_9VqaXO/view?usp=sharing', docs: ''
   }
