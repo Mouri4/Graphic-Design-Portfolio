@@ -44,7 +44,7 @@ window.PROJECTS = [
       { src: 'ceel-img/Horizontal Logo.png', alt: 'Patience wide logo lockup' }
     ],
     caseStudy: 'designs',
-    url: '', github: '', demo: '', docs: ''
+    url: 'https://drive.google.com/drive/folders/1XxTMHJ-3GdIuVQQTKczmoKvfXdvCtXXk?usp=sharing', github: '', demo: '', docs: ''
   },
   {
     id: 'brew-haven-campaign',
@@ -77,7 +77,7 @@ window.PROJECTS = [
       { src: 'ceel-img/news-letter.png', alt: 'Brew Haven slim web banner' }
     ],
     caseStudy: 'marketing',
-    url: '', github: '', demo: '', docs: ''
+    url: 'https://drive.google.com/drive/folders/1QUGARmxFAgI4t717b6xb5XhyR6YTUQaE?usp=sharing', github: '', demo: '', docs: ''
   },
   {
     id: 'patience-grand-opening-poster',
@@ -105,7 +105,7 @@ window.PROJECTS = [
       { src: 'ceel-img/TypographyBrandPoster.png', alt: 'Patience grand opening poster' }
     ],
     caseStudy: 'poster',
-    url: '', github: '', demo: '', docs: ''
+    url: 'https://drive.google.com/drive/folders/1Ij5mF1x5O1bRhupZI6ddjdt6hhbGSgCY?usp=sharing', github: '', demo: '', docs: ''
   },
   {
     id: 'pos-ecommerce-system',
@@ -134,7 +134,7 @@ window.PROJECTS = [
     technologies: ['Laptop', 'Visual Studio', 'Point of Sale', 'E-Commerce', 'Role-Based Access'],
     screenshots: [],
     caseStudy: 'experience',
-    url: '', github: '', demo: '', docs: ''
+    url: '', github: '', demo: 'https://drive.google.com/file/d/1QyIvqbWAaVCkcL3uKqAYTLyV8_9VqaXO/view?usp=sharing', docs: ''
   }
 ];
 
