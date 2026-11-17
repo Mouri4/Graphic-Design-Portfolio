@@ -143,7 +143,7 @@ window.PROJECTS = [
        { src: 'ceel-img/staff-POS.png'}
     ],
     caseStudy: 'experience',
-    url: '', github: '', demo: 'https://drive.google.com/file/d/1QyIvqbWAaVCkcL3uKqAYTLyV8_9VqaXO/view?usp=sharing', docs: ''
+    url: '', github: 'https://github.com/Mouri4/liberty-ordering-system', demo: 'https://drive.google.com/file/d/1QyIvqbWAaVCkcL3uKqAYTLyV8_9VqaXO/view?usp=sharing', docs: ''
   }
 ];
 
