@@ -123,7 +123,7 @@ section,
 .main {
   z-index: 2;
   margin-top: calc(var(--nav-h) + 1em);
-  height: 87vh;
+  height: 83vh;
   width: 90%;
   background-color: #efefef6c;
   border-radius: 0.2em;
@@ -316,7 +316,7 @@ section,
   font-family: jetbrains;
   margin: 0;
   font-weight: 900;
-  font-size: clamp(1.5rem, 3.4vw + 0.3rem, 2rem);
+  font-size: clamp(1.5rem, 3.4vw + 0.3rem, 2.1rem);
   color: white;
 }
 
