@@ -145,7 +145,7 @@ window.PROJECTS = [
    ============================================================ */
 window.SOCIALS = {
   github: 'https://github.com/Mouri4',      // e.g. 'https://github.com/your-username'
-  linkedin: 'https://www.linkedin.com',    // e.g. 'https://www.linkedin.com/in/your-name'
+  linkedin: 'https://www.linkedin.com/in/jhoncen-taulo-035631450?utm_source=share_via&utm_content=profile&utm_medium=member_android',    // e.g. 'https://www.linkedin.com/in/your-name'
   facebook: 'https://www.facebook.com/jhoncen.taulo/',
   instagram: 'https://www.instagram.com/jhncen.t/'
 };
