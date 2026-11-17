@@ -3515,6 +3515,7 @@ html[data-theme="dark"] .proj-tools select option { background: #1b1b1f; }
 .cf-status.err { color: #ffb4a8; }
 
 @media (max-width: 900px) {
+  .cta-row { justify-content: center; margin-left: 0; }
   .contact-grid { grid-template-columns: 1fr; }
   .cv-actions { position: static; margin-bottom: 1rem; justify-content: flex-start; }
 }
