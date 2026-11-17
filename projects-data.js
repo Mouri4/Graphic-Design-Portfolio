@@ -111,7 +111,7 @@ window.PROJECTS = [
     id: 'pos-ecommerce-system',
     slug: 'pos-ecommerce-system',
     name: 'Integrated POS & E-Commerce System',
-    category: 'Information System',
+    category: 'Web Development',
     type: 'Web Application',
     year: 2026,
     status: 'Completed',
