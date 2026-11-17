@@ -3409,7 +3409,7 @@ html.lb-lock {
   transition: background-color .25s, color .25s, transform .25s;
 }
 .btn:hover, .btn:focus-visible { background: #ffffff; color: #000000; transform: translateY(-2px); }
-.btn.alt { background: transparent; }
+
 .btn.alt-light { color: var(--text); background: transparent; border-color: var(--text); }
 .btn.alt-light:hover { background: var(--text); color: var(--bg); }
 .btn[disabled] { opacity: .6; cursor: not-allowed; transform: none; }
